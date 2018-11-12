@@ -2,4 +2,4 @@
 
 ## Infos
 
-David etait la
+David était la
