@@ -1,3 +1,3 @@
 # Projet-C
 
-## Info
+## Infos
